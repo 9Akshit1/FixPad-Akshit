@@ -38,8 +38,8 @@ I often found myself repeating the same actions—editing my millions of typing 
 - Clean separation between base and top housing in one `.stl` file
 
 **Final Case File:** `FixPad.stl`
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/78de14682c3709a7524ff2030e27d2c7ab67444e_case1.png
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba3ae3aac205f08522297d190cd3744027b3b67e_case2.png
+![Alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/78de14682c3709a7524ff2030e27d2c7ab67444e_case1.png)
+![Alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba3ae3aac205f08522297d190cd3744027b3b67e_case2.png)
 
 ---
 
@@ -50,10 +50,10 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba3ae3aac205f08522297d190cd37440
 - Easily modifiable for more buttons or RGB in future versions
 
 **Final Schematic:** `FixPad_Schematic.kicad_sch`
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/1272fe644b1aa734ab4d0d3803552320e7c9b321_schematic.png
+![Alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1272fe644b1aa734ab4d0d3803552320e7c9b321_schematic.png)
 
 **Final PCB Layout:** `FixPad_PCB.kicad_pcb`
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/359cfbdff54a60db288da27a50660031333753c7_pcb.png
+![Alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/359cfbdff54a60db288da27a50660031333753c7_pcb.png)
 
 ---
 
